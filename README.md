@@ -2,4 +2,5 @@
 - 👀 I’m interested in programming, Offensive Security, OPSEC and reverse enginering.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate, but.. I never do it. Too bad.
+- ?!?! What a funny avatar I have ?!
 - !! As you can see I am not very interesting... Find another profile that tells a little more about his life!
