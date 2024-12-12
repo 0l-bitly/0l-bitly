@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0l-bitly
+- 👀 I’m interested in programming, Offensive Security, OPSEC and reverse enginering.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate, but.. I never do it. Too bad.
+- !! As you can see I am not very interesting... Find another profile that tells a little more about his life!
